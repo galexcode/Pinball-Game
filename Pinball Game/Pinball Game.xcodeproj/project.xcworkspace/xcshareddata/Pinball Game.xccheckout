@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CECF0651-7760-487A-89C5-8331380E7291</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Pinball Game</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>24289727-B735-4E32-8692-75E4EDFF8C9D</key>
+		<string>https://github.com/Too-Much-Daylight/Pinball-Game.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pinball Game/Pinball Game.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>24289727-B735-4E32-8692-75E4EDFF8C9D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Too-Much-Daylight/Pinball-Game.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>24289727-B735-4E32-8692-75E4EDFF8C9D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>24289727-B735-4E32-8692-75E4EDFF8C9D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Pinball-Game</string>
+		</dict>
+	</array>
+</dict>
+</plist>
