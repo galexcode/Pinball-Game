@@ -17,7 +17,6 @@
 		C15F50FB185F8ACC002C218E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C15F50F9185F8ACC002C218E /* Main.storyboard */; };
 		C15F50FE185F8ACC002C218E /* PinballViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C15F50FD185F8ACC002C218E /* PinballViewController.m */; };
 		C15F5101185F8ACC002C218E /* PinballMyScene.m in Sources */ = {isa = PBXBuildFile; fileRef = C15F5100185F8ACC002C218E /* PinballMyScene.m */; };
-		C15F5103185F8ACC002C218E /* Spaceship.png in Resources */ = {isa = PBXBuildFile; fileRef = C15F5102185F8ACC002C218E /* Spaceship.png */; };
 		C15F5105185F8ACC002C218E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C15F5104185F8ACC002C218E /* Images.xcassets */; };
 		C15F510C185F8ACC002C218E /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C15F510B185F8ACC002C218E /* XCTest.framework */; };
 		C15F510D185F8ACC002C218E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C15F50E5185F8ACC002C218E /* Foundation.framework */; };
@@ -53,7 +52,6 @@
 		C15F50FD185F8ACC002C218E /* PinballViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PinballViewController.m; sourceTree = "<group>"; };
 		C15F50FF185F8ACC002C218E /* PinballMyScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PinballMyScene.h; sourceTree = "<group>"; };
 		C15F5100185F8ACC002C218E /* PinballMyScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PinballMyScene.m; sourceTree = "<group>"; };
-		C15F5102185F8ACC002C218E /* Spaceship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spaceship.png; sourceTree = "<group>"; };
 		C15F5104185F8ACC002C218E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		C15F510A185F8ACC002C218E /* Pinball GameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pinball GameTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C15F510B185F8ACC002C218E /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -128,7 +126,6 @@
 				C15F50FD185F8ACC002C218E /* PinballViewController.m */,
 				C15F50FF185F8ACC002C218E /* PinballMyScene.h */,
 				C15F5100185F8ACC002C218E /* PinballMyScene.m */,
-				C15F5102185F8ACC002C218E /* Spaceship.png */,
 				C15F5104185F8ACC002C218E /* Images.xcassets */,
 				C15F50EE185F8ACC002C218E /* Supporting Files */,
 			);
@@ -243,7 +240,6 @@
 			files = (
 				C15F50F2185F8ACC002C218E /* InfoPlist.strings in Resources */,
 				C15F5105185F8ACC002C218E /* Images.xcassets in Resources */,
-				C15F5103185F8ACC002C218E /* Spaceship.png in Resources */,
 				C15F50FB185F8ACC002C218E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -479,6 +475,7 @@
 				C15F511D185F8ACC002C218E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C15F511E185F8ACC002C218E /* Build configuration list for PBXNativeTarget "Pinball GameTests" */ = {
 			isa = XCConfigurationList;
@@ -487,6 +484,7 @@
 				C15F5120185F8ACC002C218E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
