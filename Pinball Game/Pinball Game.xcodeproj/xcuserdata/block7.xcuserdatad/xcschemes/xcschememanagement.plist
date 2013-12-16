@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Rudy'sv Pinball Game.xcscheme</key>
+		<key>Pinball Game.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C1E010061858D80A00061186</key>
+		<key>C15F50E1185F8ACC002C218E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C1E0102E1858D80A00061186</key>
+		<key>C15F5109185F8ACC002C218E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

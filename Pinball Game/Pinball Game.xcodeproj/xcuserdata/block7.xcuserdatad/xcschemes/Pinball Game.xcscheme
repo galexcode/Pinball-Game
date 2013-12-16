@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C1E010061858D80A00061186"
-               BuildableName = "Rudy&apos;sv Pinball Game.app"
-               BlueprintName = "Rudy&apos;sv Pinball Game"
-               ReferencedContainer = "container:Rudy&apos;sv Pinball Game.xcodeproj">
+               BlueprintIdentifier = "C15F50E1185F8ACC002C218E"
+               BuildableName = "Pinball Game.app"
+               BlueprintName = "Pinball Game"
+               ReferencedContainer = "container:Pinball Game.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C1E0102E1858D80A00061186"
-               BuildableName = "Rudy&apos;sv Pinball GameTests.xctest"
-               BlueprintName = "Rudy&apos;sv Pinball GameTests"
-               ReferencedContainer = "container:Rudy&apos;sv Pinball Game.xcodeproj">
+               BlueprintIdentifier = "C15F5109185F8ACC002C218E"
+               BuildableName = "Pinball GameTests.xctest"
+               BlueprintName = "Pinball GameTests"
+               ReferencedContainer = "container:Pinball Game.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C1E010061858D80A00061186"
-            BuildableName = "Rudy&apos;sv Pinball Game.app"
-            BlueprintName = "Rudy&apos;sv Pinball Game"
-            ReferencedContainer = "container:Rudy&apos;sv Pinball Game.xcodeproj">
+            BlueprintIdentifier = "C15F50E1185F8ACC002C218E"
+            BuildableName = "Pinball Game.app"
+            BlueprintName = "Pinball Game"
+            ReferencedContainer = "container:Pinball Game.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C1E010061858D80A00061186"
-            BuildableName = "Rudy&apos;sv Pinball Game.app"
-            BlueprintName = "Rudy&apos;sv Pinball Game"
-            ReferencedContainer = "container:Rudy&apos;sv Pinball Game.xcodeproj">
+            BlueprintIdentifier = "C15F50E1185F8ACC002C218E"
+            BuildableName = "Pinball Game.app"
+            BlueprintName = "Pinball Game"
+            ReferencedContainer = "container:Pinball Game.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C1E010061858D80A00061186"
-            BuildableName = "Rudy&apos;sv Pinball Game.app"
-            BlueprintName = "Rudy&apos;sv Pinball Game"
-            ReferencedContainer = "container:Rudy&apos;sv Pinball Game.xcodeproj">
+            BlueprintIdentifier = "C15F50E1185F8ACC002C218E"
+            BuildableName = "Pinball Game.app"
+            BlueprintName = "Pinball Game"
+            ReferencedContainer = "container:Pinball Game.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

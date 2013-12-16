@@ -1,8 +1,8 @@
 //
 //  PinballMyScene.m
-//  Rudy'sv Pinball Game
+//  Pinball Game
 //
-//  Created by block7 on 12/11/13.
+//  Created by block7 on 12/16/13.
 //  Copyright (c) 2013 block7. All rights reserved.
 //
 
@@ -18,7 +18,7 @@
         
         SKLabelNode *myLabel = [SKLabelNode labelNodeWithFontNamed:@"Chalkduster"];
         
-        myLabel.text = @"Durk a Durk!";
+        myLabel.text = @"Hello, World!";
         myLabel.fontSize = 30;
         myLabel.position = CGPointMake(CGRectGetMidX(self.frame),
                                        CGRectGetMidY(self.frame));

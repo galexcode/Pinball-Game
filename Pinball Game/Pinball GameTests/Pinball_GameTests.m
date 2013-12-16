@@ -1,18 +1,18 @@
 //
-//  Rudy_sv_Pinball_GameTests.m
-//  Rudy'sv Pinball GameTests
+//  Pinball_GameTests.m
+//  Pinball GameTests
 //
-//  Created by block7 on 12/11/13.
+//  Created by block7 on 12/16/13.
 //  Copyright (c) 2013 block7. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface Rudy_sv_Pinball_GameTests : XCTestCase
+@interface Pinball_GameTests : XCTestCase
 
 @end
 
-@implementation Rudy_sv_Pinball_GameTests
+@implementation Pinball_GameTests
 
 - (void)setUp
 {

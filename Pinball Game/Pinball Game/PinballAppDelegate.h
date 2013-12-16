@@ -1,8 +1,8 @@
 //
 //  PinballAppDelegate.h
-//  Rudy'sv Pinball Game
+//  Pinball Game
 //
-//  Created by block7 on 12/11/13.
+//  Created by block7 on 12/16/13.
 //  Copyright (c) 2013 block7. All rights reserved.
 //
 

@@ -1,6 +1,6 @@
 //
 //  PinballMyScene.h
-//  Rudy'sv Pinball Game
+//  Pinball Game
 //
 
 //  Copyright (c) 2013 block7. All rights reserved.
