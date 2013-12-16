@@ -87,6 +87,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C15F5090185F8654002C218E /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = iPad;
+			sourceTree = "<group>";
+		};
 		C1E00FFE1858D80A00061186 = {
 			isa = PBXGroup;
 			children = (
@@ -121,6 +128,7 @@
 		C1E010121858D80A00061186 /* Rudy'sv Pinball Game */ = {
 			isa = PBXGroup;
 			children = (
+				C15F5090185F8654002C218E /* iPad */,
 				C1E0101B1858D80A00061186 /* PinballAppDelegate.h */,
 				C1E0101C1858D80A00061186 /* PinballAppDelegate.m */,
 				C1E0101E1858D80A00061186 /* Main.storyboard */,
@@ -396,8 +404,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Rudy'sv Pinball Game/Rudy'sv Pinball Game-Prefix.pch";
 				INFOPLIST_FILE = "Rudy'sv Pinball Game/Rudy'sv Pinball Game-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -410,8 +420,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Rudy'sv Pinball Game/Rudy'sv Pinball Game-Prefix.pch";
 				INFOPLIST_FILE = "Rudy'sv Pinball Game/Rudy'sv Pinball Game-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -477,6 +489,7 @@
 				C1E010421858D80A00061186 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C1E010431858D80A00061186 /* Build configuration list for PBXNativeTarget "Rudy'sv Pinball GameTests" */ = {
 			isa = XCConfigurationList;
@@ -485,6 +498,7 @@
 				C1E010451858D80A00061186 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
