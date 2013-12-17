@@ -8,6 +8,13 @@
 
 #import "PinballMyScene.h"
 
+@interface PinballMyScene() <SKPhysicsContactDelegate>
+@property (nonatomic) SKSpriteNode *ball;
+@property (nonatomic) SKSpriteNode *rflipper;
+@property (nonatomic) SKSpriteNode *lflipper;
+@property (nonatomic) SKSpriteNode *spring;
+@end
+
 @implementation PinballMyScene
 
 -(id)initWithSize:(CGSize)size {    
