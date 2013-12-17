@@ -17,11 +17,10 @@
 
 - (void) addvoid {
     
-    
-    
-       // death.position = CGRectMake(100, 100, 100, 100);
-        self.death.position = CGPointMake(100, 100);
-        [self addChild:self.death];
+        SKSpriteNode * death = [SKSpriteNode spriteNodeWithImageNamed:@""];
+            CGRectMake(100, 100, 100, 100);
+            self.death.position = CGPointMake(100, 100);
+            [self addChild:self.death];
 }
 
 
