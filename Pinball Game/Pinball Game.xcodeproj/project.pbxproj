@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C14FCAC21860C52C00A65835 /* sprites.atlas in Resources */ = {isa = PBXBuildFile; fileRef = C14FCAC11860C52C00A65835 /* sprites.atlas */; };
+		C14FCAC41860C5F800A65835 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C14FCAC31860C5F800A65835 /* background.jpg */; };
 		C15F50E6185F8ACC002C218E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C15F50E5185F8ACC002C218E /* Foundation.framework */; };
 		C15F50E8185F8ACC002C218E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C15F50E7185F8ACC002C218E /* CoreGraphics.framework */; };
 		C15F50EA185F8ACC002C218E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C15F50E9185F8ACC002C218E /* UIKit.framework */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C14FCAC11860C52C00A65835 /* sprites.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = sprites.atlas; sourceTree = "<group>"; };
+		C14FCAC31860C5F800A65835 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
 		C15F50E2185F8ACC002C218E /* Pinball Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pinball Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C15F50E5185F8ACC002C218E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C15F50E7185F8ACC002C218E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -119,6 +123,8 @@
 		C15F50ED185F8ACC002C218E /* Pinball Game */ = {
 			isa = PBXGroup;
 			children = (
+				C14FCAC31860C5F800A65835 /* background.jpg */,
+				C14FCAC11860C52C00A65835 /* sprites.atlas */,
 				C15F50F6185F8ACC002C218E /* PinballAppDelegate.h */,
 				C15F50F7185F8ACC002C218E /* PinballAppDelegate.m */,
 				C15F50F9185F8ACC002C218E /* Main.storyboard */,
@@ -239,7 +245,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				C15F50F2185F8ACC002C218E /* InfoPlist.strings in Resources */,
+				C14FCAC41860C5F800A65835 /* background.jpg in Resources */,
 				C15F5105185F8ACC002C218E /* Images.xcassets in Resources */,
+				C14FCAC21860C52C00A65835 /* sprites.atlas in Resources */,
 				C15F50FB185F8ACC002C218E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
