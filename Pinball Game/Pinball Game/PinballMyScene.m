@@ -8,7 +8,21 @@
 
 #import "PinballMyScene.h"
 
+@interface PinballMyScene ()
+@property SKSpriteNode * death;
+
+@end
+
 @implementation PinballMyScene
+
+- (void) addvoid {
+    
+    
+    
+       // death.position = CGRectMake(100, 100, 100, 100);
+        self.death.position = CGPointMake(100, 100);
+        [self addChild:self.death];
+}
 
 
 @end
